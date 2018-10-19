@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome
 ---
+I'd like to show my daughters how technology can help make learning fun and effective. SheWhiz.com is where I share the tools and games I've built for them!
